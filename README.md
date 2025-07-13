@@ -27,7 +27,7 @@ Email-Signature-2-FluentIdentity-Lite/
 <hr>
 
 <h2>📸 Preview</h2>
-<p><img src="./preview.png" alt="FluentIdentity Lite Signature Preview" width="600"/></p>
+<p><img src="./FluentIdentity preview.png" alt="FluentIdentity Lite Signature Preview" width="600"/></p>
 
 <hr>
 
