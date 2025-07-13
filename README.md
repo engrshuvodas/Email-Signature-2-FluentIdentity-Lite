@@ -10,7 +10,7 @@
   <li>Clean and modern layout</li>
   <li>Responsive across devices</li>
   <li>Easy to edit name, title, image, and contact info</li>
-  <li>Social media integration (LinkedIn, GitHub, WhatsApp, YouTube)</li>
+  <li>Social media integration (LinkedIn, GitHub, WhatsApp, YouTube, etc.)</li>
   <li>Compatible with Gmail, Outlook, Yahoo, and more</li>
 </ul>
 
@@ -19,15 +19,37 @@
 <h2>📂 Folder Structure</h2>
 <pre>
 Email-Signature-2-FluentIdentity-Lite/
+├── .vscode/
+├── Assets/
+│   ├── 4sq.png
+│   ├── Behance.png
+│   ├── Dribbble.png
+│   ├── Engr Shuvo Das.png
+│   ├── evernote.png
+│   ├── facebook.png
+│   ├── Forrst.png
+│   ├── g+.png
+│   ├── Github.png
+│   ├── Instagram.png
+│   ├── linkedin.png
+│   ├── pinterest.png
+│   ├── Rss.png
+│   ├── skype.png
+│   ├── tumblr.png
+│   ├── twitter.png
+│   ├── vimeo.png
+│   ├── wordpress.png
+│   └── youtube.png
+├── FluentIdentity preview.png
 ├── index.html
-├── preview.png
+├── LICENSE
 └── README.md
 </pre>
 
 <hr>
 
 <h2>📸 Preview</h2>
-<p><img src="./FluentIdentity preview.png" alt="FluentIdentity Lite Signature Preview" width="600"/></p>
+<p><img src="./FluentIdentity preview.png" alt="Email Signature Preview" width="600"/></p>
 
 <hr>
 
@@ -36,7 +58,7 @@ Email-Signature-2-FluentIdentity-Lite/
   <li>Open <code>index.html</code> using any code editor.</li>
   <li>Edit the profile image URL, name, job title, contact details, and social media links.</li>
   <li>Save the file and open it in a browser to preview.</li>
-  <li>Copy the entire HTML and paste it into your email client's signature settings.</li>
+  <li>Copy the entire HTML and paste it into your email client’s signature settings.</li>
 </ol>
 
 <hr>
@@ -45,8 +67,8 @@ Email-Signature-2-FluentIdentity-Lite/
 <ul>
   <li>Host your profile image publicly and replace the image URL in the HTML.</li>
   <li>Update <code>mailto:</code> and <code>tel:</code> links to match your own contact info.</li>
-  <li>Replace social media links with your personal profiles.</li>
-  <li>Test the final signature across Gmail, Outlook, and mobile clients for responsiveness.</li>
+  <li>Replace social media links and icons with your personal profiles and branding.</li>
+  <li>Use only the icons you need to keep the signature clean.</li>
 </ul>
 
 <hr>
